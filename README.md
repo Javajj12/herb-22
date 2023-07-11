@@ -1,8 +1,7 @@
 ﻿# herb-22
 ### HW0 Static Web Page
 #### 6404062620141 ณัฐภัทร แจ้งโพธิ์นาค
-
-﻿## Image full web
+﻿### Image full web
 
 ![Web capture_1](https://github.com/Javajj12/herb-22/assets/81207175/062f3c12-047d-4c49-9383-3bdc95635b8e)
 
