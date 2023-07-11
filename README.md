@@ -1,6 +1,5 @@
 ﻿# herb-22
 ### HW0 Static Web Page
-﻿### Image full web
 #### 6404062620141 ณัฐภัทร แจ้งโพธิ์นาค
 
 
